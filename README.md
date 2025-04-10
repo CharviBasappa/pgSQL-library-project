@@ -35,8 +35,8 @@ A simple PostgreSQL project to manage authors, books, borrowers, and track borro
 Open and run `schema.sql` in the query tool to create all required tables
 
 ### 2. Insert Data
-Run data.sql to populate the database with sample authors, books, borrowers and borrow history
+Run `data.sql` to populate the database with sample authors, books, borrowers and borrow history
 
 ### 3. Query the Data
-Use queries.sql to explore the database with SELECT statements
+Use `queries.sql` to explore the database with SELECT statements
 
